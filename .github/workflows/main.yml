@@ -11,5 +11,5 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Badges - Readme
-        uses: Dr-A-Soni/Dr-A-Soni@master
+        uses: Dr-A-Soni/Badge-readme@master
           CREDLY_USER:<ami-soni.f526dd7b_credly>
