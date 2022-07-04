@@ -10,5 +10,5 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Badges - Readme
-        uses: Dr-A-Soni/badge-readme@master
-          CREDLY_USER: <Ami Soni_credly> # optional, but default will use the same from github
+        uses: Dr-A-Soni/Dr-A-Soni-Readme@main
+          CREDLY_USER: <Ami Soni_Credly> # optional, but default will use the same from github
