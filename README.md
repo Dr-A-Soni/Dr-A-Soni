@@ -1,10 +1,1 @@
-### Hi there 👋
-
-<!--
-**Dr-A-Soni/Dr-A-Soni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-<!--START_SECTION:badges-->
-<!--END_SECTION:badges-->
- 
- 
+### HI 👋👋 There I'm Dr.Soni
