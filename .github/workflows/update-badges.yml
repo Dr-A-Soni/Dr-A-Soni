@@ -12,7 +12,7 @@ jobs:
       - name: Badges - Readme
         uses: Dr-A-Soni/Dr-A-Soni@master
         with: 
-          GH_TOKEN: ${{ secrets.Amy }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
           REPOSITORY: Dr-A-Soni/Dr-A-Soni # optional, By default, it will automatically use the repository who's executing the workflow.
           COMMIT_MESSAGE: "My commit message to update badges" # optional
           CREDLY_USER: ami-soni.f526dd7b_credly # optional, but default will use the same from github
