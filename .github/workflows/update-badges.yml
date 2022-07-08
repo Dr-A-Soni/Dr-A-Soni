@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Badges - Readme
-        uses: Dr-A-Soni/Dr-A-Soni@master
+        uses: Dr-A-Soni/Dr-A-Soni@main
         with: 
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           REPOSITORY: Dr-A-Soni/Dr-A-Soni # optional, By default, it will automatically use the repository who's executing the workflow.
