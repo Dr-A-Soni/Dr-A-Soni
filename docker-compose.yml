@@ -1,12 +1,8 @@
-version: "3.7"
+version: '3.4'
+
 services:
-  badge-readme:
-    build: .
-    container_name: dev-badge-readme
-    image: dev-badge-readme
-    env_file:
-     - .env
-    volumes:
-      - ./main.py:/main.py
-      - ./settings.py:/settings.py
-      - ./services:/services
+  comdockerdevenvironments:
+    image: comdockerdevenvironments
+    build:
+      context: .
+      dockerfile: ./Dockerfile
