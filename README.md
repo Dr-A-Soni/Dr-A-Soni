@@ -1,16 +1,22 @@
-## Hi there 👋
+# 💫 About Me:
+Hi, I’m Dr Ami Soni 👋<br>I am a biostatistician and healthcare research analyst with experience in clinical data analysis, epidemiology, and reproducible statistical workflows using R, complemented by AI-assisted analytical methods. I also have formal training in Large Language Models (LLMs) and applied AI from Turing, which I use to enhance analytical workflows, automation, and research productivity.<br>Research and Professional Interests<br>• Biostatistics and statistical modelling<br>• Epidemiology and public health research<br>• Clinical and observational study analysis<br>• Reproducible research using R<br>• Applied AI for healthcare and research analytics<br>Technical Skills<br>Statistics and Data Analysis<br>• R (tidyverse, ggplot2, broom, nnet, kableExtra)<br>• Descriptive and inferential statistics<br>• Regression modelling (linear, logistic, multinomial)<br>• Clinical trial and observational data analysis<br>AI and Machine Learning<br>• Large Language Models (LLMs)<br>• Applied AI workflows <br>• Prompt engineering for data analysis and research tasks<br>• AI-assisted data cleaning, documentation, and reporting<br>Data Visualisation and Reporting<br>• ggplot2 and publication-quality figures<br>• Journal-ready tables and statistical summaries<br>• R Markdown for reproducible reporting<br>Current Work<br>• Clinical research and epidemiological data analysis<br>• AI-assisted analytical workflows for healthcare datasets<br>• Manuscript-ready statistical outputs for peer-reviewed journals<br>Featured Repositories<br>• Clinical data analysis in R<br>• Epidemiological modelling and regression workflows<br>• AI-assisted research and analysis pipelines<br>• Reproducible research templates<br>How to Reach Me<br>• GitHub: https://github.com/Dr-A-Soni<br>• Open to research collaborations, consulting, and analytical projects<br>Philosophy<br>I believe in transparent, reproducible, and clinically meaningful data analysis. I use AI as a supportive tool to improve efficiency and clarity, while maintaining statistical rigor and domain expertise.<br>
 
-<!--
-**Dr-A-Soni/Dr-A-Soni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dr.dharani@outlook.com) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# 💻 Tech Stack:
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Dr-A-Soni&theme=synthwave&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Dr-A-Soni&theme=synthwave&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dr-A-Soni&theme=synthwave&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Dr-A-Soni&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 -->
