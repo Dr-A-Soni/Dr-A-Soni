@@ -1,5 +1,24 @@
 # 💫 About Me:
-Hi, I’m Dr Ami Soni 👋<br>I am a biostatistician and healthcare research analyst with experience in clinical data analysis, epidemiology, and reproducible statistical workflows using R, complemented by AI-assisted analytical methods. I also have formal training in Large Language Models (LLMs) and applied AI from Turing, which I use to enhance analytical workflows, automation, and research productivity.<br>Research and Professional Interests<br>• Biostatistics and statistical modelling<br>• Epidemiology and public health research<br>• Clinical and observational study analysis<br>• Reproducible research using R<br>• Applied AI for healthcare and research analytics<br>Technical Skills<br>Statistics and Data Analysis<br>• R (tidyverse, ggplot2, broom, nnet, kableExtra)<br>• Descriptive and inferential statistics<br>• Regression modelling (linear, logistic, multinomial)<br>• Clinical trial and observational data analysis<br>AI and Machine Learning<br>• Large Language Models (LLMs)<br>• Applied AI workflows <br>• Prompt engineering for data analysis and research tasks<br>• AI-assisted data cleaning, documentation, and reporting<br>Data Visualisation and Reporting<br>• ggplot2 and publication-quality figures<br>• Journal-ready tables and statistical summaries<br>• R Markdown for reproducible reporting<br>Current Work<br>• Clinical research and epidemiological data analysis<br>• AI-assisted analytical workflows for healthcare datasets<br>• Manuscript-ready statistical outputs for peer-reviewed journals<br>Featured Repositories<br>• Clinical data analysis in R<br>• Epidemiological modelling and regression workflows<br>• AI-assisted research and analysis pipelines<br>• Reproducible research templates<br>How to Reach Me<br>• GitHub: https://github.com/Dr-A-Soni<br>• Open to research collaborations, consulting, and analytical projects<br>Philosophy<br>I believe in transparent, reproducible, and clinically meaningful data analysis. I use AI as a supportive tool to improve efficiency and clarity, while maintaining statistical rigor and domain expertise.<br>
+👋<br>Hi, I’m Dr Ami Soni 👋
+Biostatistician and healthcare research analyst with experience in clinical and public health data analysis, epidemiology, and reproducible R-based workflows. Trained in Large Language Models (LLMs) and applied AI (Turing), using AI to enhance analytical workflows, automation, and research productivity.
+Focus Areas
+• Biostatistics and epidemiology
+• Healthcare and clinical research analytics
+• Reproducible analysis using R
+• AI-assisted research workflows
+Core Skills
+• R (tidyverse, ggplot2, broom, nnet, kableExtra)
+• Statistical modelling and regression analysis
+• Clinical and observational study analysis
+• LLMs, applied AI, and prompt engineering
+Current Work
+• Clinical and epidemiological data analysis
+• AI-assisted analytical pipelines
+• Manuscript-ready tables and figures
+Connect
+GitHub: https://github.com/Dr-A-Soni
+Open to research collaborations and analytical projects
+<br>
 
 
 ## 🌐 Socials:
